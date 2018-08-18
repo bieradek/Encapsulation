@@ -1,7 +1,7 @@
 package com.timbuchalka;
 
 public class Player {
-    public String name;
+    public String fullNme; //exploit
     public int health;
     public String weapon;
 
