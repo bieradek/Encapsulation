@@ -1,3 +1,5 @@
+package com.timbuchalka;
+
 public class EnhancedPlayer {
     private String name;
     private int health = 100; //defining the default value of health
